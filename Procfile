@@ -1,0 +1,1 @@
+Web: gunicorn app:model_deployment.py
