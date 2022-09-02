@@ -1,1 +1,1 @@
-web : python model_deployment.py
+worker : python model_deployment.py
